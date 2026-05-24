@@ -1,0 +1,25 @@
+{
+  "name": "MealNest IoT Command Centre",
+  "short_name": "MealNest IoT",
+  "description": "Live IoT command centre for regulated food operations.",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#006B5F",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

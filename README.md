@@ -83,6 +83,17 @@ Customer/header logos and NUMI logos are uploaded in the browser and stored as d
 
 Uploaded images are rendered as provided using `object-fit: contain`; the app does not generate, redraw, recolour, crop, or stylise uploaded logos.
 
+## Favicon Assets
+
+MealNest favicon assets live in `public/`:
+
+- `public/favicon.ico`
+- `public/favicon.svg`
+- `public/apple-touch-icon.png`
+- `public/favicon.png`
+
+The manifest is already configured at `public/site.webmanifest`.
+
 ## Limitations
 
 - Front-end only; no backend, database, authentication, or real IoT ingestion is included.
